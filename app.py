@@ -1,2 +1,2 @@
-print("Hello CI from feature branch!")
+print("Hello CI from feature braanch!")
 # testing ci
